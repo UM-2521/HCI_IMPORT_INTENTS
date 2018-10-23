@@ -1,5 +1,6 @@
 ## To create your avatar chatbot with KakaoTalk chats and Dialogflow
 
-This is the code for the HCI class at Soongsil University on October 26, 2018.</br> Just copy and paste it into an empty code file.
+This is the code for the HCI class at Soongsil University on October 26, 2018.<br> Just copy and paste it into an empty code file.
 
-** PDF(How to do it) download: http://bit.ly/HCI_181026
+** PDF(How to do it) download: http://bit.ly/HCI_181026<br>
+** Code raw text: https://raw.githubusercontent.com/UM-2521/HCI_IMPORT_INTENTS/master/import_intents.py
