@@ -34,6 +34,11 @@ if __name__ == "__main__":
 
     # 엑셀 내부 데이터를 쭉 돌아가며 처리를 합니다.
     for r in ws.rows:
+
+        # 빈줄은 넘어갑니다.
+        if r is None:
+            continue
+
         # 데이터를 받아 ] 단위로 텍스트를 쪼개 저장합니다.
         data = r[0].value.split(']')
 
